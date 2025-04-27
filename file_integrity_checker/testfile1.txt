@@ -1,0 +1,2 @@
+This is the initial content of testfile1.txt.
+Any changes to this file will be detected
